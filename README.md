@@ -1,7 +1,7 @@
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anushka%20Pandey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=55&descSize=16" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=Building+real-world+tools%3BGSSoC+%7C+ELUSOC+%7C+Nexus+%7C+Social+SoC+2026%3BHackathon+Winner%3BTurning+ideas+into+impactful+software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=Building+real-world+tools%3BGSSoC+%7C+ELUSOC+%7C+Nexus+%7C+Social+SoC+2026%3BHackathon+special+category+winner%3BTurning+ideas+into+impactful+software" alt="Typing SVG" />
 <p>
   <a href="https://my-portfolio-three-green-25.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-brightgreen?style=for-the-badge" />
