@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anushka%20Pandey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=55&descSize=16" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Building+real-world+tools+%F0%9F%94%A7;Contributing+to+open+source+%F0%9F%8C%8D;Turning+ideas+into+impactful+software+%F0%9F%9A%80;GSSoC+%E2%80%A2+GDG+BPIT+%E2%80%A2+Hackathon+Winner+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=Building+real-world+tools+%F0%9F%94%A7;GSSoC+%E2%80%A2+ELUSO C+%E2%80%A2+Nexus+%E2%80%A2+Social+SoC+2026+%F0%9F%8C%8D;Hackathon+Winner+%F0%9F%8F%86;Turning+ideas+into+impactful+software+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p>
   <a href="https://my-portfolio-three-green-25.vercel.app/" target="_blank">
@@ -21,14 +21,31 @@
 
 ---
 
+## 🔥 Currently contributing — Open Source Programs 2026
+
+<div align="center">
+
+| Program | Status | What I'm doing |
+|:-------:|:------:|:--------------|
+| 🌸 **GirlScript Summer of Code 2026** | ✅ Active | Contributing to notesvault & more |
+| 🌊 **Social Summer of Code** | ✅ Active | Open source contributor |
+| ⚡ **ELUSOC Summer of Code** | ✅ Active | Open source contributor |
+| 🔷 **Nexus Spring of Code** | ✅ Active | Open source contributor |
+
+> 🚀 Simultaneously active in **4 open source programs** this season — building, reviewing, and shipping real code.
+
+</div>
+
+---
+
 ## 🏆 Highlights that matter
 
 <div align="center">
 
 | 🥇 Award | 🌍 Open Source | 🏛️ Community | 🤝 Collaborated |
 |:---:|:---:|:---:|:---:|
-| **Best Implementation** at VIBECODE Hackathon | **GirlScript Summer of Code** contributor | **Junior Council Member** at GDG BPIT | **6 repos** forked by others |
-| *StackForge — AI Dev Tool* | *notesvault · 95★ upstream* | *Google Developer Group* | *FixNearby · Periodic Table · AI-classifier* |
+| **Best Implementation** at VIBECODE Hackathon | **4 active SoC programs** in 2026 | **Junior Council Member** at GDG BPIT | **6 repos** forked by others |
+| *StackForge — AI Dev Tool* | *GSSoC · ELUSOC · Nexus · Social SoC* | *Google Developer Group* | *FixNearby · notesvault · AI-classifier* |
 
 </div>
 
@@ -41,10 +58,14 @@ const anushka = {
   name: "Anushka Pandey",
   role: "Aspiring Full Stack Developer & AI Enthusiast",
   location: "India 🇮🇳",
-  community: ["GSSoC 2025", "GDG BPIT Junior Council"],
+  openSource: {
+    active: ["GSSoC 2026", "ELUSOC Summer of Code", "Nexus Spring of Code", "Social Summer of Code"],
+    past:   ["GSSoC 2025"]
+  },
+  community: ["GDG BPIT — Junior Council Member"],
   currentlyLearning: ["Full Stack Development", "AI Safety", "System Design"],
   lookingFor: "Internship / Junior Developer opportunities",
-  funFact: "Won Best Implementation at VIBECODE — and built a LinkedIn clone in 2 days 🚀",
+  funFact: "Won Best Implementation at VIBECODE & active in 4 open source programs at once 🚀",
   reachMe: "anushkapandey8029@gmail.com"
 };
 ```
@@ -103,12 +124,17 @@ const anushka = {
 
 <div align="center">
 
-[![GSSoC](https://img.shields.io/badge/GirlScript_Summer_of_Code-2025-orange?style=for-the-badge&logo=github&logoColor=white)](https://gssoc.girlscript.tech/)
+[![GSSoC 2026](https://img.shields.io/badge/GirlScript_SoC-2026-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://gssoc.girlscript.tech/)
+[![Social SoC](https://img.shields.io/badge/Social_Summer_of_Code-2026-E91E8C?style=for-the-badge&logo=github&logoColor=white)](https://socialsummerofcode.com/)
+[![ELUSOC](https://img.shields.io/badge/ELUSOC_Summer_of_Code-2026-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://elusoc.tech/)
+[![Nexus](https://img.shields.io/badge/Nexus_Spring_of_Code-2026-00BCD4?style=for-the-badge&logo=github&logoColor=white)](https://nexus.com/)
 [![GDG](https://img.shields.io/badge/GDG_BPIT-Junior_Council-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gdg.community.dev/)
 
 </div>
 
-> Contributing to **notesvault** under GirlScript Summer of Code 2025 — part of a community project with **95+ stars** that helps students organize and share notes.
+<br/>
+
+> 🌍 Currently contributing across **4 open source programs simultaneously** — GSSoC 2026, ELUSOC Summer of Code, Nexus Spring of Code, and Social Summer of Code. Building, reviewing PRs, and shipping real features for the community.
 
 ---
 
