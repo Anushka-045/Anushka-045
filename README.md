@@ -135,7 +135,29 @@ const anushka = {
 > 🌍 Currently contributing across **4 open source programs simultaneously** — GSSoC 2026, ELUSOC Summer of Code, Nexus Spring of Code, and Social Summer of Code. Building, reviewing PRs, and shipping real features for the community.
 
 ---
+## 🌌 Developer Philosophy
 
+<div align="center">
+
+> “Code is more than syntax —
+> it’s turning ideas into something people can actually use.”
+
+<br/>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+---
+
+## 📅 Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/6AD3F7/Anushka-045" width="900" />
+
+</div>
+
+---
 <div align="center">
 
 ### 💬 Let's build something together
